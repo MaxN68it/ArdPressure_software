@@ -1,4 +1,9 @@
 The files are named based on the version number, language, PCB version and type of arduino nano bootloader: ArdPressure_VERSION.LANGUAGE_PCB_BOOTLOADER
 
-LAST VERSION: 0.9.13
+LATEST VERSION: 0.9.14 (26/05/2020)
+Resolve bug int Pre-Evacuation.
+
+
+HISTORY
+LATEST VERSION: 0.9.13 (26/05/2020)
 An intermediate pre-evacuation procedure has been introduced between the vacuum phase and the saturation phase, excluding the last purge cycle.
