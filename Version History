@@ -1,11 +1,17 @@
 The files are named based on the version number, language, PCB version and type of arduino nano bootloader: ArdPressure_VERSION.LANGUAGE_PCB_BOOTLOADER
 
-LATEST VERSION: 0.9.16 (06/06/2020)
+LATEST VERSION: 
+0.9.20 (22/07/2020)
+Added English Language
+Pre-Evacuation procedure shifted between the end of cycle and start next cycle, excluding last  Purge Cycle
+
+HISTORY
+0.9.17 to 0.9.19 Internal Testing Version
+
+0.9.16 (06/06/2020)
 Added safety depression procedure at start
 Added progress bar in all process
 
-
-HISTORY
 0.9.15 (30/05/2020)
 Added PCB Vers. 1.0
 Resolve minor bug.
